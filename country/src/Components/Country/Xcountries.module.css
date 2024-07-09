@@ -1,8 +1,12 @@
 .container{
     display: flex;
     flex-wrap: wrap;
+    margin-top: 8rem;
     gap: 10px;
-    margin-left: 30px;
+    position:sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .xcountry{
     width: 200px;

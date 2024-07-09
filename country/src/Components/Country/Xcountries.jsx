@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import styles from './Xcountries.module.css';
+import styles from '../Country/Xcountries.module.css'
 const Xcountries =()=>{
      const [country, setCountry] = useState([]);
     
