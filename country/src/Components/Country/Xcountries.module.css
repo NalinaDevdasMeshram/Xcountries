@@ -1,9 +1,8 @@
 .container{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 8rem;
+    margin-top: 1rem;
     gap: 10px;
-    position:sticky;
     display: flex;
     justify-content: center;
     align-items: center;
